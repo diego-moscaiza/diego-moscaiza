@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋 y bienvenido </h1>
-<h3 align="center">Soy estudiante de Ingeniería de sistemas. Soy un junior con ganas de aprender y crecer en la industria del software</h3>
+<h3 align="center">Estudio la carrera de Ingeniería de sistemas.</h3>
+<h3 align="center">Y soy un junior con ganas de aprender y crecer en la industria del software</h3>
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
